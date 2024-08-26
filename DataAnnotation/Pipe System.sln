@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DataAnnotation", "DataAnnotation\DataAnnotation.pyproj", "{54D7879E-911D-4474-97CC-2C38704BA817}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54D7879E-911D-4474-97CC-2C38704BA817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D7879E-911D-4474-97CC-2C38704BA817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F10932D-3A07-4152-A45E-D48763C125C1}
+	EndGlobalSection
+EndGlobal
